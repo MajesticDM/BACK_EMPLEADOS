@@ -1,0 +1,20 @@
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\bin\Debug\netcoreapp3.1\CORE.EMPLEADOS.deps.json
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\bin\Debug\netcoreapp3.1\CORE.EMPLEADOS.dll
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\bin\Debug\netcoreapp3.1\CORE.EMPLEADOS.pdb
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.csproj.AssemblyReference.cache
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.AssemblyInfoInputs.cache
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.AssemblyInfo.cs
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.csproj.CoreCompileInputs.cache
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.dll
+D:\Programas\VS 2022\repos\EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.pdb
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\bin\Debug\netcoreapp3.1\CORE.EMPLEADOS.deps.json
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\bin\Debug\netcoreapp3.1\CORE.EMPLEADOS.dll
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\bin\Debug\netcoreapp3.1\CORE.EMPLEADOS.pdb
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.csproj.AssemblyReference.cache
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.AssemblyInfoInputs.cache
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.AssemblyInfo.cs
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.csproj.CoreCompileInputs.cache
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.dll
+D:\Programas\VS 2022\repos\Sigo Vance\BACK_EMPLEADOS\CORE.EMPLEADOS\obj\Debug\netcoreapp3.1\CORE.EMPLEADOS.pdb
